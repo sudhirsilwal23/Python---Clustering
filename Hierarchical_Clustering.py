@@ -15,7 +15,7 @@ import pandas as pd
 # Step : 2 Data Preprocessing
 #--------------------------------------------------------------------------------
          # Importing the dataset
-dataset = pd.read_csv('Retail Store Customers.csv')
+dataset = pd.read_csv('Shopping_mall_card_subscribers.csv')
 
 
 #--------------------------------------------------------------------------------
