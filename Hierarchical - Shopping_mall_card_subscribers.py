@@ -16,6 +16,7 @@ import pandas as pd
 #--------------------------------------------------------------------------------
          # Importing the dataset
 dataset = pd.read_csv('Shopping_mall_card_subscribers.csv')
+Var_Independent = dataset.iloc[:, [3, 4]].values
 
 
 #--------------------------------------------------------------------------------
